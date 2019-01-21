@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+		<integer>1</integer>
+		<key>com.typemytype.robofont.compileSettings.autohint</key>
+		<integer>1</integer>
+		<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+		<integer>1</integer>
+		<key>com.typemytype.robofont.compileSettings.decompose</key>
+		<integer>1</integer>
+		<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+		<integer>0</integer>
+		<key>com.typemytype.robofont.compileSettings.path</key>
+		<string>/Users/iv/Documents/Type/01_type/Adobe/SourceSerif/roman/Masters/master_1/SourceSerif_1.otf</string>
+		<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+		<integer>0</integer>
 		<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 		<array>
 			<real>0.9957480216</real>
@@ -9,12 +23,9 @@
 			<integer>1</integer>
 			<real>0.7</real>
 		</array>
-		<key>com.typemytype.robofont.layerOrder</key>
-		<array>
-		</array>
 		<key>com.typemytype.robofont.segmentType</key>
 		<string>curve</string>
-		<key>com.typemytype.robofont.sort</key>
+		<key>com.typesupply.defcon.sortDescriptor</key>
 		<array>
 			<dict>
 				<key>ascending</key>

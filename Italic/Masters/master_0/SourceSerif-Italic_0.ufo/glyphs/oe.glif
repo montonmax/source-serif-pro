@@ -37,15 +37,4 @@
 			<point name="aboveLC" x="474" y="500" type="move"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-				<real>0.5</real>
-			</array>
-		</dict>
-	</lib>
 </glyph>

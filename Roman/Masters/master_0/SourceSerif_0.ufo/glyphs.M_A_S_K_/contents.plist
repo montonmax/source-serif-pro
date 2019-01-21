@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Omega</key>
+		<string>O_mega.glif</string>
+		<key>alpha</key>
+		<string>alpha.glif</string>
+		<key>sigma.end</key>
+		<string>sigma.end.glif</string>
+		<key>xi</key>
+		<string>xi.glif</string>
+		<key>zeta</key>
+		<string>zeta.glif</string>
+	</dict>
+</plist>

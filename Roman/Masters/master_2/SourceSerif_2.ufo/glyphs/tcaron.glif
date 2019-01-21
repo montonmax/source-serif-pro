@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcaron" format="1">
+<glyph name="tcaron" format="2">
 	<unicode hex="0165"/>
 	<advance width="372"/>
 	<outline>
+		<contour>
+			<point x="375" y="741" type="curve" smooth="yes"/>
+			<point x="355" y="741"/>
+			<point x="337" y="736"/>
+			<point x="315" y="723" type="curve"/>
+			<point x="310" y="524" type="line"/>
+			<point x="365" y="524" type="line"/>
+			<point x="398" y="589" type="line" smooth="yes"/>
+			<point x="417" y="627"/>
+			<point x="428" y="661"/>
+			<point x="428" y="689" type="curve" smooth="yes"/>
+			<point x="428" y="720"/>
+			<point x="418" y="741"/>
+		</contour>
 		<component base="t"/>
-		<component base="caron.alt" xOffset="314" yOffset="10"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>0</integer>
-				<real>0.5</real>
-				<integer>1</integer>
-				<integer>1</integer>
-			</array>
+			<key>public.markColor</key>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>
